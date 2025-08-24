@@ -68,7 +68,7 @@ int main() {
 		//3,2,1,// second Triangle
 		//0,1,3,
 		3, 2, 0,
-		//0,1,2,3,
+		0, 2, 1
 	};
 
 
@@ -140,16 +140,8 @@ int main() {
 		//Ejercicio 3: Triangulo Superior Izquierdo Relleno
 		//glDrawElements(GL_TRIANGLES, 3, GL_UNSIGNED_INT, 0);
         
-		//Ejercicio 4: Triangulo Relleno
-		/*glDrawArrays(GL_LINES, 0, 4);
-		glDrawArrays(GL_LINES, 2, 4);
-		glDrawArrays(GL_LINES, 2, 2);
-		glDrawArrays(GL_LINES, 3, 2);
-		glDrawArrays(GL_LINE_LOOP,0,4);*/
-		/*glDrawElements(GL_TRIANGLES, 3, GL_UNSIGNED_INT, 0);
-		glDrawElements(GL_TRIANGLES, 3, GL_UNSIGNED_INT, 0);*/
-		//glDrawElements(GL_TRIANGLES, 5, GL_UNSIGNED_INT, 0);
-		glDrawArrays(GL_LINE_LOOP, 0, 4);
+		//Ejercicio 4: Rectángulo Relleno
+		glDrawElements(GL_TRIANGLES, 6, GL_UNSIGNED_INT, 0);
 
 
         glBindVertexArray(0);

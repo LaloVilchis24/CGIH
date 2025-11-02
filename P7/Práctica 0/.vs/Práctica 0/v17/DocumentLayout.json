@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lalo\\Desktop\\Grafica\\P7\\Pr\u00E1ctica 0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{110050FC-B560-4229-86B2-D03304CC794F}|Pr\u00E1ctica 0\\Pr\u00E1ctica 0.vcxproj|C:\\Users\\Lalo\\Desktop\\Grafica\\P7\\Pr\u00E1ctica 0\\Pr\u00E1ctica 0\\Iluminacion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{110050FC-B560-4229-86B2-D03304CC794F}|Pr\u00E1ctica 0\\Pr\u00E1ctica 0.vcxproj|solutionrelative:Pr\u00E1ctica 0\\Iluminacion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110050FC-B560-4229-86B2-D03304CC794F}|Pr\u00E1ctica 0\\Pr\u00E1ctica 0.vcxproj|C:\\Users\\Lalo\\Desktop\\Grafica\\P7\\Pr\u00E1ctica 0\\Pr\u00E1ctica 0\\Shader\\lighting.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{110050FC-B560-4229-86B2-D03304CC794F}|Pr\u00E1ctica 0\\Pr\u00E1ctica 0.vcxproj|solutionrelative:Pr\u00E1ctica 0\\Shader\\lighting.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Iluminacion.cpp",
+              "DocumentMoniker": "C:\\Users\\Lalo\\Desktop\\Grafica\\P7\\Pr\u00E1ctica 0\\Pr\u00E1ctica 0\\Iluminacion.cpp",
+              "RelativeDocumentMoniker": "Pr\u00E1ctica 0\\Iluminacion.cpp",
+              "ToolTip": "C:\\Users\\Lalo\\Desktop\\Grafica\\P7\\Pr\u00E1ctica 0\\Pr\u00E1ctica 0\\Iluminacion.cpp",
+              "RelativeToolTip": "Pr\u00E1ctica 0\\Iluminacion.cpp",
+              "ViewState": "AgIAAEQBAAAAAAAAAAAAAFMBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-13T02:22:01.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lighting.frag",
+              "DocumentMoniker": "C:\\Users\\Lalo\\Desktop\\Grafica\\P7\\Pr\u00E1ctica 0\\Pr\u00E1ctica 0\\Shader\\lighting.frag",
+              "RelativeDocumentMoniker": "Pr\u00E1ctica 0\\Shader\\lighting.frag",
+              "ToolTip": "C:\\Users\\Lalo\\Desktop\\Grafica\\P7\\Pr\u00E1ctica 0\\Pr\u00E1ctica 0\\Shader\\lighting.frag",
+              "RelativeToolTip": "Pr\u00E1ctica 0\\Shader\\lighting.frag",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-13T02:22:39.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

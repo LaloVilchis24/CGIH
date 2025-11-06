@@ -23,7 +23,7 @@
     <None Include="Shader\core.vs" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Main_Modelado.cpp" />
+    <ClCompile Include="Main_Dibujo2D.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

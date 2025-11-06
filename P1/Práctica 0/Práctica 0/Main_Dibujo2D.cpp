@@ -121,14 +121,14 @@ int main() {
         glBindVertexArray(VAO);
 
 
-        /*glPointSize(10);
-        glDrawArrays(GL_POINTS,0,1);*/
+        glPointSize(10);
+        glDrawArrays(GL_POINTS,0,1);
         
-        //glDrawArrays(GL_LINES,0,2);
-        //glDrawArrays(GL_LINE_LOOP,0,4);
+        glDrawArrays(GL_LINES,0,2);
+        glDrawArrays(GL_LINE_LOOP,0,4);
         
-        //glDrawArrays(GL_TRIANGLES,0,3);
-        //glDrawElements(GL_TRIANGLES, 3,GL_UNSIGNED_INT,0);
+        glDrawArrays(GL_TRIANGLES,0,3);
+        glDrawElements(GL_TRIANGLES, 3,GL_UNSIGNED_INT,0);
 
 		//Ejercicio 1: Crear 4 Puntos
 		/*glPointSize(5);
@@ -145,11 +145,11 @@ int main() {
 		glDrawArrays(GL_LINES, 2, 4);
 		glDrawArrays(GL_LINES, 2, 2);
 		glDrawArrays(GL_LINES, 3, 2);
-		glDrawArrays(GL_LINE_LOOP,0,4);*/
-		/*glDrawElements(GL_TRIANGLES, 3, GL_UNSIGNED_INT, 0);
-		glDrawElements(GL_TRIANGLES, 3, GL_UNSIGNED_INT, 0);*/
-		//glDrawElements(GL_TRIANGLES, 5, GL_UNSIGNED_INT, 0);
-		glDrawArrays(GL_LINE_LOOP, 0, 4);
+		glDrawArrays(GL_LINE_LOOP,0,4);
+		glDrawElements(GL_TRIANGLES, 3, GL_UNSIGNED_INT, 0);
+		glDrawElements(GL_TRIANGLES, 3, GL_UNSIGNED_INT, 0);
+		glDrawElements(GL_TRIANGLES, 5, GL_UNSIGNED_INT, 0);
+		glDrawArrays(GL_LINE_LOOP, 0, 4);*/
 
 
         glBindVertexArray(0);
